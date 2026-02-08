@@ -12,7 +12,6 @@ Wrapper installer untuk menjalankan **dua script di 1 VPS**:
 ## Install cepat (Debian 11)
 
 ```bash
-sudo -i
 git clone https://github.com/AhollL/1clickxray-x-zivpn.git
 cd 1clickxray-x-zivpn
 bash install.sh
@@ -95,8 +94,3 @@ ZIVPN_INSTALL_URL="https://raw.githubusercontent.com/zahidbd2/udp-zivpn/main/zi.
 RELAX_RPFILTER=1 \
 bash install.sh
 ```
-
----
-
-## License
-MIT
